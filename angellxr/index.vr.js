@@ -15,7 +15,7 @@ export default class angellxr extends React.Component {
         <Text
           style={{
             // backgroundColor: '#777879', commented out
-            fontSize: 0.8,
+            fontSize: 0.6,
             fontWeight: '400',
             color: '#bf1363',
             layoutOrigin: [0.5, 0.5],
@@ -25,7 +25,7 @@ export default class angellxr extends React.Component {
             textAlignVertical: 'center',
             transform: [{translate: [0, 0, -3]}],
           }}>
-          beautiful
+          Santorini, Greece
         </Text>
       </View>
     );
