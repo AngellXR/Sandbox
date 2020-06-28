@@ -14,9 +14,10 @@ export default class app extends React.Component {
         <Pano source={asset('rareDinner.jpg')}/>
         <Text
           style={{
-            backgroundColor: '#777879',
+            // backgroundColor: '#777879',commented out
             fontSize: 0.8,
-            fontWeight: '400',
+            color: '#bf1363',
+            fontWeight: '300',
             layoutOrigin: [0.5, 0.5],
             paddingLeft: 0.2,
             paddingRight: 0.2,
@@ -24,7 +25,7 @@ export default class app extends React.Component {
             textAlignVertical: 'center',
             transform: [{translate: [0, 0, -3]}],
           }}>
-          hello
+          Santorini, Greece
         </Text>
       </View>
     );
