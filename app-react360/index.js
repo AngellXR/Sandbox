@@ -28,10 +28,11 @@ const styles = StyleSheet.create({
   greetingBox: {
     padding: 40,
     backgroundColor: "#623cea",
-    borderColor: "#639dda",
+    borderColor: "#f3f3f3",
     borderWidth: 2,
     justifyContent: "center",
     alignItems: "center",
+    borderRadius: 50,
   },
   greeting: {
     fontSize: 80,
