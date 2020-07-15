@@ -1,4 +1,4 @@
-import Head from 'next/head'
+import Head from "next/head";
 
 export default function Home() {
   return (
@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Learn <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className="description">
@@ -54,7 +54,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by{" "}
           <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
         </a>
       </footer>
@@ -103,7 +103,7 @@ export default function Home() {
         }
 
         .title a {
-          color: #0070f3;
+          color: #623cea;
           text-decoration: none;
         }
 
@@ -130,7 +130,7 @@ export default function Home() {
         }
 
         code {
-          background: #fafafa;
+          background: #f3f3f3;
           border-radius: 5px;
           padding: 0.75rem;
           font-size: 1.1rem;
@@ -163,8 +163,8 @@ export default function Home() {
         .card:hover,
         .card:focus,
         .card:active {
-          color: #0070f3;
-          border-color: #0070f3;
+          color: #623cea;
+          border-color: #623cea;
         }
 
         .card h3 {
@@ -205,5 +205,5 @@ export default function Home() {
         }
       `}</style>
     </div>
-  )
+  );
 }
