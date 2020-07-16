@@ -10,11 +10,12 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://Instagram.com/projectangell">AngellXR!</a>
+          Introducing{" "}
+          <a href="https://Instagram.com/projectangell">AngellXR!</a>
         </h1>
 
         <p className="description">
-          Collaborate using <code>#angellxr</code>
+          To join in, just use <code>#angellxr</code>
         </p>
 
         <div className="grid">
