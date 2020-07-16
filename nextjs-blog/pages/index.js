@@ -43,7 +43,8 @@ export default function Home() {
           >
             <h3>Roadmap &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Instantly collaborate on your memories, and build virtual worlds
+              with AngellXR.
             </p>
           </a>
         </div>
