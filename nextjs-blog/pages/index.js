@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          To join in use <code>#angellxr</code>
+          &#128126; To join in use <code>#angellxr</code>
         </p>
 
         <div className="grid">
