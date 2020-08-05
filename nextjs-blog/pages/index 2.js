@@ -52,8 +52,9 @@ export default function Home() {
 
       <footer>
         <a href="https://alton.tech/" target="_blank" rel="noopener noreferrer">
+          product of
           <img src="/atlogo2.png" alt="AltonTech Logo" className="logo" />
-          &nbsp; by AltonTech, Inc.
+          AltonTech, Inc.
         </a>
       </footer>
 
