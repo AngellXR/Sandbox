@@ -4,14 +4,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>AngellXR</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Introducing{" "}
-          <a href="https://Instagram.com/projectangell">AngellXR!</a>
+          {"{{"} <a href="https://Instagram.com/projectangell">AngellXR</a>
+          {"  "}
+          {"}}"}
         </h1>
 
         <p className="description">
@@ -21,12 +22,12 @@ export default function Home() {
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>About &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Find in-depth information about AngellXR features and API.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className="card">
             <h3>Prototypes &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Learn about AngellXR in an interactive course with quizzes!</p>
           </a>
 
           <a
@@ -34,7 +35,7 @@ export default function Home() {
             className="card"
           >
             <h3>API &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover and deploy boilerplate example angell projects.</p>
           </a>
 
           <a
@@ -42,10 +43,7 @@ export default function Home() {
             className="card"
           >
             <h3>Roadmap &rarr;</h3>
-            <p>
-              Instantly collaborate on your memories, and build virtual worlds
-              with AngellXR.
-            </p>
+            <p>Go back. Go together. Build Worlds. Live Forever.</p>
           </a>
         </div>
       </main>
@@ -162,7 +160,9 @@ export default function Home() {
         .card:focus,
         .card:active {
           color: #623cea;
-          border-color: #623cea;
+          // border-color: #623cea;
+          box-shadow: -1px -1px 3px rgba(161, 140, 238, 0.5),
+            1px 1px 3px 2px rgba(77, 45, 194, 0.5);
         }
 
         .card h3 {
