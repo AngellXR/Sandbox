@@ -22,12 +22,12 @@ export default function Home() {
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>About &rarr;</h3>
-            <p>Find in-depth information about AngellXR features and API.</p>
+            <p>Learn about AngellXR, and our quest to build the metaverse.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className="card">
             <h3>Prototypes &rarr;</h3>
-            <p>Learn about AngellXR in an interactive course with quizzes!</p>
+            <p>Go back. Go together. Build Worlds. Live Forever.</p>
           </a>
 
           <a
@@ -39,11 +39,13 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.notion.so/4fda7aebdb5042bd95f1190d85f3b413?v=ee7bca7e415f45189dbeaacf3b966736"
             className="card"
           >
             <h3>Roadmap &rarr;</h3>
-            <p>Go back. Go together. Build Worlds. Live Forever.</p>
+            <p>
+              Find in-depth information about AngellXR features and progress.
+            </p>
           </a>
         </div>
       </main>
