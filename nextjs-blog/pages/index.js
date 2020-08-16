@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -20,7 +21,7 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://nextjs.org/docs" className="card">
+          <a href="/posts/first-post" className="card">
             <h3>About &rarr;</h3>
             <p>Learn about AngellXR, and our quest to build the metaverse.</p>
           </a>
@@ -30,10 +31,7 @@ export default function Home() {
             <p>Go back. Go together. Build Worlds. Live Forever.</p>
           </a>
 
-          <a
-            href="https://github.com/zeit/next.js/tree/master/examples"
-            className="card"
-          >
+          <a href="/posts/second-post" className="card">
             <h3>API &rarr;</h3>
             <p>Discover and deploy boilerplate example angell projects.</p>
           </a>
