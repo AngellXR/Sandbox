@@ -1,5 +1,17 @@
 import Head from "next/head";
 import Link from "next/link";
+import {
+  TwitterTimelineEmbed,
+  TwitterShareButton,
+  TwitterFollowButton,
+  TwitterHashtagButton,
+  TwitterMentionButton,
+  TwitterTweetEmbed,
+  TwitterMomentShare,
+  TwitterDMButton,
+  TwitterVideoEmbed,
+  TwitterOnAirButton,
+} from "react-twitter-embed";
 
 export default function Home() {
   return (
@@ -22,7 +34,7 @@ export default function Home() {
 
         <div className="grid">
           <a href="/posts/first-post" className="card">
-            <h3>About &rarr;</h3>
+            <h3>Blog &rarr;</h3>
             <p>Learn about AngellXR, and our quest to build the metaverse.</p>
           </a>
 
@@ -53,6 +65,7 @@ export default function Home() {
           <img src="/atlogo2.png" alt="AltonTech Logo" className="logo" />
           &nbsp; by AltonTech, Inc.
         </a>
+        <TwitterFollowButton screenName={"angell_xr"} />
       </footer>
 
       <style jsx>{`
