@@ -28,6 +28,7 @@ export default function FirstPost() {
           <a>Back to home</a>
         </Link>
       </h2>
+      <TwitterFollowButton screenName={"angell_xr"} />
       <TwitterTimelineEmbed
         sourceType="profile"
         screenName="angell_xr"

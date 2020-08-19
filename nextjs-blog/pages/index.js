@@ -65,7 +65,6 @@ export default function Home() {
           <img src="/atlogo2.png" alt="AltonTech Logo" className="logo" />
           &nbsp; by AltonTech, Inc.
         </a>
-        <TwitterFollowButton screenName={"angell_xr"} />
       </footer>
 
       <style jsx>{`
