@@ -1,21 +1,21 @@
 {
   "devFiles": [],
   "lowPriorityFiles": [
-    "static/JR7fA61JM69_xP08klGO1/_buildManifest.js",
-    "static/JR7fA61JM69_xP08klGO1/_ssgManifest.js"
+    "static/65Aa8hLFEKnAkI9ZTUcAm/_buildManifest.js",
+    "static/65Aa8hLFEKnAkI9ZTUcAm/_ssgManifest.js"
   ],
   "pages": {
     "/": [
       "static/runtime/webpack-b65cab0b00afd201cbda.js",
       "static/chunks/framework.01fb8c9091ebbaaf6515.js",
-      "static/chunks/54b97b41f496b8ac7fe2859c20568d24913a65e6.de9c554ee09d03c4b240.js",
-      "static/chunks/e8b6bf2b4165dc68dec16dbab91e574b65784965.ce62361d1fbeae8b35bb.js",
+      "static/chunks/61391ff94fafd7cb94fa9cee71c016736fbd3d6b.de9c554ee09d03c4b240.js",
+      "static/chunks/36b31b7c1833f4a7923af99edab5b7d3b9e3d554.ce62361d1fbeae8b35bb.js",
       "static/runtime/main-6dcb6416c583ea2d4ee8.js"
     ],
     "/_app": [
       "static/runtime/webpack-b65cab0b00afd201cbda.js",
       "static/chunks/framework.01fb8c9091ebbaaf6515.js",
-      "static/chunks/54b97b41f496b8ac7fe2859c20568d24913a65e6.de9c554ee09d03c4b240.js",
+      "static/chunks/61391ff94fafd7cb94fa9cee71c016736fbd3d6b.de9c554ee09d03c4b240.js",
       "static/runtime/main-6dcb6416c583ea2d4ee8.js"
     ],
     "/_error": [
@@ -29,15 +29,15 @@
     "/index": [
       "static/runtime/webpack-b65cab0b00afd201cbda.js",
       "static/chunks/framework.01fb8c9091ebbaaf6515.js",
-      "static/chunks/54b97b41f496b8ac7fe2859c20568d24913a65e6.de9c554ee09d03c4b240.js",
-      "static/chunks/e8b6bf2b4165dc68dec16dbab91e574b65784965.ce62361d1fbeae8b35bb.js",
+      "static/chunks/61391ff94fafd7cb94fa9cee71c016736fbd3d6b.de9c554ee09d03c4b240.js",
+      "static/chunks/36b31b7c1833f4a7923af99edab5b7d3b9e3d554.ce62361d1fbeae8b35bb.js",
       "static/runtime/main-6dcb6416c583ea2d4ee8.js"
     ],
     "/posts/first-post": [
       "static/runtime/webpack-b65cab0b00afd201cbda.js",
       "static/chunks/framework.01fb8c9091ebbaaf6515.js",
-      "static/chunks/54b97b41f496b8ac7fe2859c20568d24913a65e6.de9c554ee09d03c4b240.js",
-      "static/chunks/e8b6bf2b4165dc68dec16dbab91e574b65784965.ce62361d1fbeae8b35bb.js",
+      "static/chunks/61391ff94fafd7cb94fa9cee71c016736fbd3d6b.de9c554ee09d03c4b240.js",
+      "static/chunks/36b31b7c1833f4a7923af99edab5b7d3b9e3d554.ce62361d1fbeae8b35bb.js",
       "static/css/ae2a9502097baff50991.css",
       "static/runtime/main-6dcb6416c583ea2d4ee8.js"
     ],
