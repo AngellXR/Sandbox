@@ -41,9 +41,7 @@ export default function Home() {
             className="card"
           >
             <h3>Roadmap &rarr;</h3>
-            <p>
-              Find in-depth information about AngellXR features and progress.
-            </p>
+            <p>Stay up to date AngellXR features and progress.</p>
           </a>
         </div>
       </main>
