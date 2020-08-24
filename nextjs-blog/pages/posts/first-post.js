@@ -2,19 +2,6 @@ import Head from "next/head";
 import Link from "next/link";
 import Layout from "../../components/layout";
 import { Button } from "../../components/Button";
-import {
-  TwitterTimelineEmbed,
-  TwitterShareButton,
-  TwitterFollowButton,
-  TwitterHashtagButton,
-  TwitterMentionButton,
-  TwitterTweetEmbed,
-  TwitterMomentShare,
-  TwitterDMButton,
-  TwitterVideoEmbed,
-  TwitterOnAirButton,
-} from "react-twitter-embed";
-import InstagramEmbed from "react-instagram-embed";
 
 export default function FirstPost() {
   return (
