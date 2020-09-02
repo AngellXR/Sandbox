@@ -6,7 +6,7 @@ export default class app_react360 extends React.Component {
     return (
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
-          <Text style={styles.greeting}>"Small town, big views" </Text>
+          <Text style={styles.greeting}>"Chase your vision" </Text>
           <Text style={(styles.greeting, (fontSize = 24))}>
             Lothian, MD - July 2020{" "}
           </Text>
